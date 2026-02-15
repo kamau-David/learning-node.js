@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "a tutorial on intro to node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamau-David/learning-node.js.git"
+  },
+  "author": "DAVIE C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamau-David/learning-node.js/issues"
+  },
+  "homepage": "https://github.com/kamau-David/learning-node.js#readme"
+}
