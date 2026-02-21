@@ -1,6 +1,10 @@
 import express from "express";
 
 import { convertToUSD } from './converter.js';
+import { log, error } from './logger.js';
+
+log("Server started");
+error("Database connection failed");
 
 const myMoney = 100;
 const myCurrency = 'EUR';
